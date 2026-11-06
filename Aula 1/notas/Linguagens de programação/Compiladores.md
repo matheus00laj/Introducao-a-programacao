@@ -1,0 +1,1 @@
+Os compiladores fazem a tradução de todasas instruções do programa fonte gerando um programa executável. Estes programas executáveis (.exe) podem ser executados fora dos ambientes de programação. A linguagem C e Pascal são exemplos de linguagens compiladas.

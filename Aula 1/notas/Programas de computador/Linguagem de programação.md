@@ -1,0 +1,1 @@
+Os programas são escritos em um linguagem de programação. Assim como linguagens tradicionais (inglês, português, espanhol), as linguagens de programação têm suas regras, que precisam ser seguidas para que o programa (software) funcione corretamente

@@ -1,0 +1,1 @@
+interpretadores fazem a interpretação de cada instrução do programa fonte executando-a dentro de um ambiente de programação, Basic e Java são exemplos de linguagens interpretadas.

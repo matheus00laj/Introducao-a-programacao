@@ -1,0 +1,1 @@
+São uma sequencia de passos para realizar uma ou mais tarefas e/ou resolver um problema.

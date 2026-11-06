@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"b1fd3a570c5142f7","x":1560,"y":-320,"width":1278,"height":2832,"color":"1","type":"group","label":"Linguagens de programação"},
+		{"id":"010dc9242a728221","x":-380,"y":-350,"width":1340,"height":790,"color":"6","type":"group","label":"Programaas de computador"},
+		{"id":"e02c099815f5e11a","x":1040,"y":-350,"width":440,"height":950,"color":"3","type":"group","label":"Algoritmos"},
+		{"id":"016d70c025a34a85","type":"file","file":"Introdução à progrmação/Aula 1/notas/Programas de computador/Programa de computador.md","x":-360,"y":-320,"width":600,"height":200},
+		{"id":"3112972aeebcfd64","x":-360,"y":-80,"width":600,"height":240,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Programas de computador/Software de sistema.md"},
+		{"id":"8327db2533e785ea","x":-360,"y":200,"width":600,"height":220,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Programas de computador/Engenharia de software.md"},
+		{"id":"dff200cafafe7bff","x":520,"y":-330,"width":400,"height":220,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Programas de computador/Linguagem de programação.md"},
+		{"id":"427bea8df05e6565","x":1060,"y":-330,"width":400,"height":151,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Algorítmos/Algorítmos.md"},
+		{"id":"318b4b474471b99d","x":1060,"y":-110,"width":400,"height":382,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Algorítmos/Algorítmos no dia a dia.md"},
+		{"id":"69de6721fd18b005","x":1060,"y":310,"width":400,"height":248,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Algorítmos/Lógica computacional.md"},
+		{"id":"c5f569686e0da4ff","x":1580,"y":-300,"width":636,"height":492,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Linguagem de programação.md"},
+		{"id":"bad2699893ac4eae","x":1599,"y":272,"width":598,"height":360,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Linguagem de máquina.md"},
+		{"id":"2b7317178fe1699f","x":1599,"y":692,"width":598,"height":400,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Linguagens de baixo nível.md"},
+		{"id":"fb794298819fa284","x":1599,"y":1152,"width":598,"height":540,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Linguagens de alto nível.md"},
+		{"id":"1df9f0047198b5f6","x":2318,"y":-300,"width":500,"height":972,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Quantas Linguagens de programação existem e qual delas usar.md"},
+		{"id":"700668b73cbaea64","x":1643,"y":1772,"width":510,"height":260,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Execução de código.md"},
+		{"id":"3a2bd85e540d1349","x":1599,"y":2112,"width":598,"height":160,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Interpretadores.md"},
+		{"id":"1aa0f59bb56fa67b","x":1599,"y":2312,"width":598,"height":180,"type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Compiladores.md"}
+	],
+	"edges":[
+		{"id":"03b4296fce9194fe","fromNode":"016d70c025a34a85","fromSide":"bottom","toNode":"3112972aeebcfd64","toSide":"top"},
+		{"id":"59317b1e39ccb4a4","fromNode":"3112972aeebcfd64","fromSide":"bottom","toNode":"8327db2533e785ea","toSide":"top"},
+		{"id":"1c9f888c7d64925b","fromNode":"016d70c025a34a85","fromSide":"right","toNode":"dff200cafafe7bff","toSide":"left"},
+		{"id":"ab0ef97d86d72278","fromNode":"427bea8df05e6565","fromSide":"bottom","toNode":"318b4b474471b99d","toSide":"top"},
+		{"id":"c373ac077ee11680","fromNode":"010dc9242a728221","fromSide":"right","toNode":"e02c099815f5e11a","toSide":"left"},
+		{"id":"53a1824ece95b981","fromNode":"e02c099815f5e11a","fromSide":"right","toNode":"b1fd3a570c5142f7","toSide":"left"},
+		{"id":"48e4c1c7a075cab0","fromNode":"c5f569686e0da4ff","fromSide":"bottom","toNode":"bad2699893ac4eae","toSide":"top"},
+		{"id":"923adf49aa01ce9c","fromNode":"bad2699893ac4eae","fromSide":"bottom","toNode":"2b7317178fe1699f","toSide":"top"},
+		{"id":"40bdcbadfcfdadf0","fromNode":"2b7317178fe1699f","fromSide":"bottom","toNode":"fb794298819fa284","toSide":"top"},
+		{"id":"9742d4d3cca3aa37","fromNode":"fb794298819fa284","fromSide":"bottom","toNode":"700668b73cbaea64","toSide":"top"},
+		{"id":"106879949b3d9e56","fromNode":"700668b73cbaea64","fromSide":"bottom","toNode":"3a2bd85e540d1349","toSide":"top"},
+		{"id":"801445434b48da87","fromNode":"3a2bd85e540d1349","fromSide":"bottom","toNode":"1aa0f59bb56fa67b","toSide":"top"}
+	]
+}

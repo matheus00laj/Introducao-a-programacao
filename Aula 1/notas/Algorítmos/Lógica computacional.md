@@ -1,0 +1,1 @@
+Para as atividades cotidianas, cada passo do algoritmo precisa de uma logica para ser seguida, se não a atividade não funciona. Na programação ocorrerá a mesma coisa: Devemos passar instruções ao computador utilizando uma linguagem de programação, seguindo uma lógica, que é chamada de **lógica computacional**
