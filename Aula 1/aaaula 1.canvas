@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"6c410d9186beec02","type":"file","file":"Introdução à progrmação/Aula 1/notas/Programas de computador/Programa de computador.md","x":-1589,"y":-1401,"width":600,"height":200},
+		{"id":"453650c0b0eff8ae","type":"file","file":"Introdução à progrmação/Aula 1/notas/Programas de computador/Software de sistema.md","x":-1589,"y":-1161,"width":600,"height":240},
+		{"id":"af88879bea2a7246","type":"file","file":"Introdução à progrmação/Aula 1/notas/Programas de computador/Engenharia de software.md","x":-1589,"y":-881,"width":600,"height":220},
+		{"id":"3d3b2048a50c8597","type":"file","file":"Introdução à progrmação/Aula 1/notas/Programas de computador/Linguagem de programação.md","x":-709,"y":-1411,"width":400,"height":220},
+		{"id":"3d921357d5613083","type":"file","file":"Introdução à progrmação/Aula 1/notas/Algorítmos/Algorítmos.md","x":-169,"y":-1411,"width":400,"height":151},
+		{"id":"53bc5ab623279793","type":"file","file":"Introdução à progrmação/Aula 1/notas/Algorítmos/Algorítmos no dia a dia.md","x":-169,"y":-1191,"width":400,"height":382},
+		{"id":"a67d4c1b0530e95e","type":"file","file":"Introdução à progrmação/Aula 1/notas/Algorítmos/Lógica computacional.md","x":-169,"y":-771,"width":400,"height":248},
+		{"id":"ca7196dd1d95f8e4","type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Linguagem de programação.md","x":351,"y":-1381,"width":636,"height":492},
+		{"id":"860a2224b6ec64da","type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Linguagem de máquina.md","x":370,"y":-809,"width":598,"height":360},
+		{"id":"ad59b08055d89a46","type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Linguagens de baixo nível.md","x":370,"y":-389,"width":598,"height":400},
+		{"id":"898563a17af386b1","type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Linguagens de alto nível.md","x":370,"y":71,"width":598,"height":540},
+		{"id":"5395fffba4d311d8","type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Quantas Linguagens de programação existem e qual delas usar.md","x":1089,"y":-1381,"width":500,"height":972},
+		{"id":"23dedcd9ea976170","type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Execução de código.md","x":414,"y":691,"width":510,"height":260},
+		{"id":"760c3ff2a1a98845","type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Interpretadores.md","x":370,"y":1031,"width":598,"height":160},
+		{"id":"c3c954ce6b144067","type":"file","file":"Introdução à progrmação/Aula 1/notas/Linguagens de programação/Compiladores.md","x":370,"y":1231,"width":598,"height":180}
+	],
+	"edges":[
+		{"id":"a7cc7446bd4bf84b","fromNode":"6c410d9186beec02","fromSide":"bottom","toNode":"453650c0b0eff8ae","toSide":"top"},
+		{"id":"5598d42e5796c6ea","fromNode":"6c410d9186beec02","fromSide":"right","toNode":"3d3b2048a50c8597","toSide":"left"},
+		{"id":"f02f50837cb1d59f","fromNode":"453650c0b0eff8ae","fromSide":"bottom","toNode":"af88879bea2a7246","toSide":"top"},
+		{"id":"b0d8cfcf50a8da1e","fromNode":"3d921357d5613083","fromSide":"bottom","toNode":"53bc5ab623279793","toSide":"top"},
+		{"id":"da75f27cfdde0ad9","fromNode":"ca7196dd1d95f8e4","fromSide":"bottom","toNode":"860a2224b6ec64da","toSide":"top"},
+		{"id":"8265526d343f4e4b","fromNode":"860a2224b6ec64da","fromSide":"bottom","toNode":"ad59b08055d89a46","toSide":"top"},
+		{"id":"1890ee802694ee95","fromNode":"ad59b08055d89a46","fromSide":"bottom","toNode":"898563a17af386b1","toSide":"top"},
+		{"id":"dbe490b476d61ef1","fromNode":"898563a17af386b1","fromSide":"bottom","toNode":"23dedcd9ea976170","toSide":"top"},
+		{"id":"0b7e157b48cd8130","fromNode":"23dedcd9ea976170","fromSide":"bottom","toNode":"760c3ff2a1a98845","toSide":"top"},
+		{"id":"5e0682532b0792f1","fromNode":"760c3ff2a1a98845","fromSide":"bottom","toNode":"c3c954ce6b144067","toSide":"top"}
+	]
+}
